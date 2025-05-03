@@ -26,6 +26,6 @@ python example_fsaverage_to_fsLR32k.py --fs_dir /path/to/gii/output/ --output_di
 
 3. Convert fsLR to cortex image
 ```
-python example_cortex_to_image.py --output_dir /path/to/cortex/output/ --subids 1 --data_dir /path/to/fsLR/output/ --subids 1
+python example_cortex_to_image.py --output_dir /path/to/cortex/output/ --subids 1 --data_dir /path/to/fsLR/output/
 ```
 
